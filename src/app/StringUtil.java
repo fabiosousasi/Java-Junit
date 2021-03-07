@@ -12,7 +12,7 @@ public class StringUtil {
 		return s.length() == 0;
 	}
 	
-	//Inverte a ordem dos caracteres da String
+	//Inverte a ordem dos caracteres da String se for fabio fica oibaf
 	public static String reverse(String s) {
 		if(s == null) {
 			return s;
